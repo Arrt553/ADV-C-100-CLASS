@@ -1,0 +1,49 @@
+#start-btn
+{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: italic;
+    width: 50%;
+} 
+body{
+    background-color: rgb(255, 216, 124);
+    border-style: double;
+    border-radius: 10px;
+    padding: 10px;
+    border-width: 10px;
+
+}
+
+#camera
+{
+    cursor: not-allowed;    
+  
+    
+    
+    
+}
+#logo_img
+{
+    padding: 10px;
+    border-color: red;
+    border-style: double;
+    border-radius: 10%;
+    width: 150px;
+    border-radius: 100px;
+    border-width: 5px;
+}
+#textbox
+{
+    cursor: not-allowed;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 700;
+    text-align: center;
+    width: 300px;
+}
+img
+{
+height: auto;
+width: 200px;
+cursor: not-allowed;
+}
